@@ -1,4 +1,4 @@
-# Learning ofjectives for this exercise
+# Learning objectives for this exercise
 * init repository
 * git add
 * git commit
